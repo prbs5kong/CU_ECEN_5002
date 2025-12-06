@@ -1,0 +1,9 @@
+pretrained_models
+**/__pycache__
+**paths_config.py
+sketch
+jobs
+slurm
+results
+zzn
+*.dat
